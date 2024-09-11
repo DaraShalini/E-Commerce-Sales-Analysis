@@ -13,3 +13,5 @@ Tools Used:
 
 Power BI Visualization:
 Download PBIX File and Open in Power BI Desktop for Interactive Viewing.
+
+![E Commere Analysis](https://github.com/user-attachments/assets/4380710c-0b23-4c30-9b73-6f7f48b55800)
