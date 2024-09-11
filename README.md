@@ -15,3 +15,5 @@ Power BI Visualization:
 Download PBIX File and Open in Power BI Desktop for Interactive Viewing.
 
 ![E Commere Analysis](https://github.com/user-attachments/assets/4380710c-0b23-4c30-9b73-6f7f48b55800)
+![image](https://github.com/user-attachments/assets/f26bec43-6155-41e4-9fa2-fbdfcfd1470b)
+
