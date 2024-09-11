@@ -10,3 +10,6 @@ Tools Used:
   <li>DAX Query</li>
   <li>Power Query</li>
 </ul>
+
+Power BI Visualization:
+Download PBIX File and Open in Power BI Desktop for Interactive Viewing.
