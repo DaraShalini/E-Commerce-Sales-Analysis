@@ -15,7 +15,6 @@ Tools Used:
 <ul>
   <li>Overall E-Commerce Sales Analysis was presented on Different KPIs & Metrics. </li>
   <li>Monthly & Daily Funnels for tracking purpose is presented</li>
-Overall E-Commerce Sales Analysis on based on Different KPIs & Metrics.
 </ul>
 
 Download PBIX File and Open in Power BI Desktop for Interactive Viewing:
